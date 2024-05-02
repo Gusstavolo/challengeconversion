@@ -2,6 +2,6 @@ public record ConsultaCoin(String base_code, String target_code, double conversi
 
     @Override
     public String toString() {
-        return " "+ base_code +  " " + target_code +  " " + conversion_result +  " " + time_last_update_utc;
+        return base_code +  "⇄" + target_code +  " Corresponde ao valor ► " + conversion_result + "▸"+ target_code + "◂" + "  Ultima atualização da cota ► " + time_last_update_utc;
     }
 }

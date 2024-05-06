@@ -1,6 +1,5 @@
 ![Template Alura](https://github.com/gui-lirasilva/Edige-POO/blob/master/Template/Thumbnails%20GitHub.png?raw=true)
 
-
 # Resumo do projeto
 O projeto oferece uma interface de usuário intuitiva através do console, permitindo aos usuários realizar seis diferentes tipos de conversões monetárias de forma simples e eficiente. Utilizando uma API de conversão de moedas, o sistema possibilita aos usuários converter valores entre diferentes moedas internacionais com facilidade
 
